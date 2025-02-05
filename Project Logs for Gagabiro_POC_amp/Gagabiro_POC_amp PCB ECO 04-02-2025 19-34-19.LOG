@@ -1,0 +1,245 @@
+Added Component: Designator=C1(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPPRD500W50D630H1120_stand)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-HD1C221B/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-HD1C221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-HD1C221B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-HD1C221B/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Added Component: Designator=Q1(TO126)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MJE340/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MJE340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MJE340/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TRANS_BC847C)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC847C/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC847C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC847C/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC847C/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Added Component: Designator=R13(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Added Component: Designator=RV1(TRIM_PV36W204C01B00 - duplicate)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PV36W204C01B00./Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PV36W204C01B00."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PV36W204C01B00./Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=RV2(TRIM_PV36W204C01B00 - duplicate)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PV36W204C01B00./Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PV36W204C01B00."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PV36W204C01B00./Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RV3(TRIM_PV36W204C01B00 - duplicate)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PV36W204C01B00./Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PV36W204C01B00."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PV36W204C01B00./Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found test_point_1.5mm
+Add Component: Footprint Not Found EL84
+Add Component: Footprint Not Found EL84
+Add Component: Footprint Not Found 12A_7
+Add Component: Footprint Not Found 12A_7
+Added Pin To Net: NetName=6V3+ Pin=R13-2
+Added Net: Name=6V3+
+Added Pin To Net: NetName=6V3- Pin=R14-2
+Added Net: Name=6V3-
+Added Net: Name=A1
+Added Net: Name=A2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-N
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=RV3-1
+Added Pin To Net: NetName=GND Pin=RV3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=RV1-2
+Added Pin To Net: NetName=NetC3_1 Pin=RV1-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_P Pin=C7-P
+Added Net: Name=NetC7_P
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=RV2-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Net: Name=NetQ1_3
+Added Net: Name=NetR2_2
+Added Net: Name=NetR5_1
+Added Net: Name=NetR6_1
+Added Net: Name=NetR6_2
+Added Net: Name=NetR7_1
+Added Net: Name=NetR9_2
+Added Net: Name=NetR10_1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR16_2 Pin=RV1-1
+Added Net: Name=NetR16_2
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR22_1 Pin=RV3-3
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetRV2_1 Pin=RV2-1
+Added Net: Name=NetRV2_1
+Added Pin To Net: NetName=NetRV2_3 Pin=RV2-3
+Added Net: Name=NetRV2_3
+Added Net: Name=S1
+Added Net: Name=S2
+Added Pin To Net: NetName=V_IN Pin=C4-1
+Added Net: Name=V_IN
+Added Pin To Net: NetName=VAA Pin=C6-2
+Added Net: Name=VAA
+Added Pin To Net: NetName=VGG Pin=C8-2
+Added Net: Name=VGG
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C1 100nF
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C2 100nF
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C3 100nF
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C4 1uF
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C5 100nF
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C6 100nF
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C7 CAP_EL_220u_stand
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component C8 100nF
+Add Class Member: Failed to add class member : Component P1 2_conn_NC
+Add Class Member: Failed to add class member : Component P2 2_conn_NC
+Add Class Member: Failed to add class member : Component P3 2_conn_NC
+Add Class Member: Failed to add class member : Component P4 2_conn_NC
+Add Class Member: Failed to add class member : Component P5 2_conn_NC
+Add Class Member: Failed to add class member : Component P6 2_conn_NC
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component Q1 MJE340*
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component Q2 BC847C
+Add Class Member: Failed to add class member : Component R1 22k
+Add Class Member: Failed to add class member : Component R2 1k
+Add Class Member: Failed to add class member : Component R3 22k
+Add Class Member: Failed to add class member : Component R4 220k
+Add Class Member: Failed to add class member : Component R5 1R
+Add Class Member: Failed to add class member : Component R6 1k
+Add Class Member: Failed to add class member : Component R7 1R
+Add Class Member: Failed to add class member : Component R8 220k
+Add Class Member: Failed to add class member : Component R9 1k
+Add Class Member: Failed to add class member : Component R10 1k
+Add Class Member: Failed to add class member : Component R11 1k
+Add Class Member: Failed to add class member : Component R12 820R
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component R13 220R
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component R14 220R
+Add Class Member: Failed to add class member : Component R15 220k
+Add Class Member: Failed to add class member : Component R16 82k
+Add Class Member: Failed to add class member : Component R17 10k
+Add Class Member: Failed to add class member : Component R18 150K
+Add Class Member: Failed to add class member : Component R19 1k
+Add Class Member: Failed to add class member : Component R20 1M
+Add Class Member: Failed to add class member : Component R21 820R
+Add Class Member: Failed to add class member : Component R22 47R
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component RV1 TRIMMER_10k
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component RV2 TRIMMER_1k
+Added Member To Class: ClassName=Gagabiro_POC_amp_main Member=Component RV3 TRIMMER_100R
+Add Class Member: Failed to add class member : Component TP1 TP_1.5mm
+Add Class Member: Failed to add class member : Component TP2 TP_1.5mm
+Add Class Member: Failed to add class member : Component TP3 TP_1.5mm
+Add Class Member: Failed to add class member : Component TP4 TP_1.5mm
+Add Class Member: Failed to add class member : Component TP5 TP_1.5mm
+Add Class Member: Failed to add class member : Component TP6 TP_1.5mm
+Add Class Member: Failed to add class member : Component TP7 TP_1.5mm
+Add Class Member: Failed to add class member : Component U1 EL84
+Add Class Member: Failed to add class member : Component U2 EL84
+Add Class Member: Failed to add class member : Component V1 12AU7
+Add Class Member: Failed to add class member : Component V2 12AU7
